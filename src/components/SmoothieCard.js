@@ -40,4 +40,4 @@ const SmoothieCard = ({smoothie, onDelete}) => {
     )
 }
 
-export default SmoothieCards
+export default SmoothieCard
